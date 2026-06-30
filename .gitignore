@@ -1,0 +1,7 @@
+# Compile outputs
+bin/
+*.class
+
+# OS Files
+.DS_Store
+Thumbs.db
