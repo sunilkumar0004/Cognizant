@@ -5,3 +5,11 @@ bin/
 # OS Files
 .DS_Store
 Thumbs.db
+
+# Maven build outputs
+target/
+
+# Local maven installation and logs
+maven/
+*.log
+*.zip
