@@ -11,5 +11,6 @@ target/
 
 # Local maven installation and logs
 maven/
+.maven/
 *.log
 *.zip
