@@ -1,0 +1,16 @@
+.box {
+  width: 300px;
+  display: inline-block;
+  margin: 10px;
+  padding: 10px 20px;
+  border: 1px solid black;
+  border-radius: 10px;
+  font-family: Arial, sans-serif;
+  vertical-align: top;
+  background-color: #fafafa;
+}
+
+.box dt {
+  font-weight: 500;
+  margin-top: 5px;
+}
